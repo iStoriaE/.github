@@ -4,9 +4,9 @@
 
 ### *Master English Through the Magic of Stories*
 
-[![iOS](https://img.shields.io/badge/iOS-Available-blue?logo=apple&logoColor=white)](https://apps.apple.com)
-[![Android](https://img.shields.io/badge/Android-Available-green?logo=android&logoColor=white)](https://play.google.com)
-[![Language](https://img.shields.io/badge/Learn-English-orange)](https://github.com/iStoriaE)
+![iOS](https://img.shields.io/badge/iOS-Available-blue?logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Available-green?logo=android&logoColor=white)
+![Language](https://img.shields.io/badge/Learn-English-orange)
 
 ---
 
