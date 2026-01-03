@@ -4,8 +4,8 @@
 
 ### *Master English Through the Magic of Stories*
 
-![iOS](https://img.shields.io/badge/iOS-Available-blue?logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Available-green?logo=android&logoColor=white)
+[![iOS](https://img.shields.io/badge/iOS-Available-blue?logo=apple&logoColor=white)](https://apps.apple.com/us/app/learn-english-easily-istoria/id1527544903)
+[![Android](https://img.shields.io/badge/Android-Available-green?logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=sa.app.iStoria)
 ![Language](https://img.shields.io/badge/Learn-English-orange)
 
 ---
@@ -43,8 +43,8 @@ We're so confident in our method that we offer a **refund guarantee** if you don
 
 iStoria is available on both major mobile platforms:
 
-- 📱 **iOS** - Download from the App Store
-- 🤖 **Android** - Download from Google Play
+- 📱 **iOS** - [Download from the App Store](https://apps.apple.com/us/app/learn-english-easily-istoria/id1527544903)
+- 🤖 **Android** - [Download from Google Play](https://play.google.com/store/apps/details?id=sa.app.iStoria)
 
 Join our growing community of language learners and start your journey to English fluency today!
 
